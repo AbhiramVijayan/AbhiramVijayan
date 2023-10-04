@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhiram Vijayan</h1>
-<h3 align="center">SRE</h3>
+<h3 align="center">I work as an SRE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiramvijayan&label=Profile%20views&color=0e75b6&style=flat" alt="abhiramvijayan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiramvijayan" alt="abhiramvijayan" /></a> </p>
+
+- 💻 I'm currently working at **H & R Block (India) Private Limited**
 
 - 📫 How to reach me **abhiramvijayan71@gmail.com**
 
